@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-hosting-and-cloud-nuxt",
+  "capabilityKey": "planned:sap:hosting-and-cloud",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-hosting-and-cloud-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/hosting-and-cloud.md",
+  "presentationPlan": "projects/sap/nuxt/hosting-and-cloud.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
